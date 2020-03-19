@@ -1,1 +1,1 @@
-# skole
+# collection of school assignements 
